@@ -1,0 +1,36 @@
+FONTLOG for Nerko
+-------------------
+This file provides detailed information on the Nerko font.
+This information should be distributed along with the Nerko font
+and any derivative works.
+
+
+Basic Font Information
+--------------------------
+
+Nerko is a chunky ‘marker’ effect font. Gives a funky, exciting and modern look while staying smooth and sleek. 
+
+Design Process: Originally drawn on an Android phone with Autodesk’s mobile sketching app. The glyphs were imported into Adobe Illustrator and vectorised. From there they were imported into FontForge for refining and spacing as a typeface. The development process was made using an OTF at all stages, so the OTF is the preferred form of modification. 
+
+
+ChangeLog
+---------
+2012 September 29 (Nermin Kahrimanovic)
+- Finished all basic alphabet glyths.
+- Numbers finished. <Nerko> 
+
+2013 October 10 
+- Improved the basic characters. <Nerko>
+
+2013 December 19 
+- Finished all basic latin glyths. <Nerko>
+
+
+Acknowledgements
+-------------------------
+
+N: Nermin Kahrimanovic
+E: nermin99@hotmail.co.uk
++: https://plus.google.com/116654441586958407560/about
+W: http://www.behance.net/nermink
+D: Designer - Complete font
