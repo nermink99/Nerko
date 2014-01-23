@@ -15,12 +15,6 @@ Design Process: Originally drawn on an Android phone with Autodesk’s mobile sk
 
 ChangeLog
 ---------
-
-2014 January 23 (Nermin Kahrimanovic)
-- Released OFL version 1.1 on Github at https://github.com/nermink99/Nerko <NerkoOne-Regular>
-- Updated the family name metadata
-- Add OFL license
-
 2012 September 29 (Nermin Kahrimanovic)
 - Finished all basic alphabet glyths.
 - Numbers finished. <Nerko> 
@@ -39,4 +33,4 @@ N: Nermin Kahrimanovic
 E: nermin99@hotmail.co.uk
 +: https://plus.google.com/116654441586958407560/about
 W: http://www.behance.net/nermink
-D: Designer of the complete font
+D: Designer - Complete font
