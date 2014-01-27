@@ -31,6 +31,8 @@ ChangeLog
 2013 December 19 
 - Finished all basic latin glyths. <Nerko>
 
+2014 January 27
+- Simplified point on all uppercase and lower case glyths. <Nerko>
 
 Acknowledgements
 -------------------------
