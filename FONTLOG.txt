@@ -34,6 +34,9 @@ ChangeLog
 2014 January 27
 - Simplified point on all uppercase and lower case glyths. <Nerko>
 
+2014 January 28
+- Simplified all glyths. <Nerko>
+
 Acknowledgements
 -------------------------
 
