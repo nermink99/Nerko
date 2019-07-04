@@ -8,5 +8,5 @@ script:
 - export OPTIONS="$OPTIONS --exclude-checkid /check/metadata" # Delete this after creating a METADATA.pb file
 - export OPTIONS="$OPTIONS --exclude-checkid /check/description" # & this after a DESCRIPTION.en_us.html file,
 - export OPTIONS="$OPTIONS --exclude-checkid /check/varfont" # & this when making a variable font.
-- export OPTIONS="$OPTIONS --loglevel INFO"
+- export OPTIONS="$OPTIONS --loglevel WARN"
 - fontbakery check-googlefonts $OPTIONS fonts/ttf/*.ttf
