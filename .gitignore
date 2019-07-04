@@ -1,0 +1,2 @@
+# ignore Fontforge's auto-save files:
+src/*.sfd-*
