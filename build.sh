@@ -3,7 +3,7 @@ set -e
 
 echo "Generating Static fonts"
 mkdir -p fonts/ttf
-fontmake -u src/NerkoOne-Regular.ufo -o ttf --output-dir fonts/ttf/
+fontmake -u src/NerkoOne-Regular.ufo2 -o ttf --output-dir fonts/ttf/
 
 #echo "Post processing"
 #ttfs=$(ls fonts/ttf/*.ttf)
