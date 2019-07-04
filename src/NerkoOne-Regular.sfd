@@ -3,7 +3,7 @@ FontName: NerkoOne-Regular
 FullName: Nerko One Regular
 FamilyName: Nerko One
 Weight: Regular
-Copyright: Copyright (c) 2013, Nermin Kahrimanovic (nermin99@hotmail.co.uk)\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is also available with a FAQ at: http://scripts.sil.org/OFL
+Copyright: Copyright 2013 The Nerko One Project Authors (https://github.com/nermink99/Nerko/)
 Version: 001.101
 ItalicAngle: 0
 UnderlinePosition: -50
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1348928952
-ModificationTime: 1562243641
+ModificationTime: 1562251579
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -59,14 +59,14 @@ OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80000027.00000002.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "FontForge 2.0 : Nerko One Regular : 23-1-2014" "" "" "" "" "Nermin Kahrimanovic" "Nermin Kahrimanovic" "" "" "" "Copyright (c) 2013, Nermin Kahrimanovic (nermin99@hotmail.co.uk)+AAoADQAK-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AA0ACgAA-This license is copied below, and is also available with a FAQ at:+AA0ACgAA-http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "FontForge 2.0 : Nerko One Regular : 23-1-2014" "" "" "" "" "Nermin Kahrimanovic" "Nermin Kahrimanovic" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 12
+WinInfo: 38 38 12
 BeginPrivate: 8
 BlueValues 22 [-3 1 397 420 564 597]
 OtherBlues 11 [-244 -213]

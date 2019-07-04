@@ -15,9 +15,7 @@
     <key>versionMinor</key>
     <integer>101</integer>
     <key>copyright</key>
-    <string>Copyright (c) 2013, Nermin Kahrimanovic (nermin99@hotmail.co.uk)
-
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is also available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <string>Copyright 2013 The Nerko One Project Authors (https://github.com/nermink99/Nerko/)</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>capHeight</key>
@@ -43,11 +41,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
     <key>openTypeNameManufacturer</key>
     <string>Nermin Kahrimanovic</string>
     <key>openTypeNameLicense</key>
-    <string>Copyright (c) 2013, Nermin Kahrimanovic (nermin99@hotmail.co.uk)
-&#13;
-This Font Software is licensed under the SIL Open Font License, Version 1.1.&#13;
-This license is copied below, and is also available with a FAQ at:&#13;
-http://scripts.sil.org/OFL</string>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
