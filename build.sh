@@ -13,3 +13,4 @@ do
 	gftools fix-nonhinting $ttf "$ttf.fix";
 	mv "$ttf.fix" $ttf;
 done
+rm fonts/ttf/*backup*.ttf
