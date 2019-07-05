@@ -51,7 +51,7 @@
 	\lozenge \uniFB01 \uniFB02 \uni01C7 \uni01C8 \uni01C9 \uni01CA \uni01CB \uni01CC 
 	\uni01EA \uni01EB \uni0208 \uni0209 \uni020A \uni020B \uni020C \uni020D \uni020E 
 	\uni020F \uni0210 \uni0211 \uni0212 \uni0213 \uni0214 \uni0215 \uni0216 \uni0217 
-	\uni0218 \uni0219 \uni021A \uni021B ];
+	\uni0218 \uni0219 \uni021A \uni021B \uni000D \uni2074 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
