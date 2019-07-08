@@ -28,6 +28,8 @@
     <integer>-250</integer>
     <key>italicAngle</key>
     <real>0</real>
+    <key>note</key>
+    <string></string>
     <key>openTypeHeadCreated</key>
     <string>2012/09/29 14:29:12</string>
     <key>openTypeHheaAscender</key>
