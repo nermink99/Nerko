@@ -772,6 +772,10 @@
     <string>uni021B_.glif</string>
     <key>uni0259</key>
     <string>uni0259.glif</string>
+    <key>uni02DA</key>
+    <string>uni02D_A_.glif</string>
+    <key>uni02DC</key>
+    <string>uni02D_C_.glif</string>
     <key>uni03A9</key>
     <string>uni03A_9.glif</string>
     <key>uni1E44</key>
@@ -814,10 +818,18 @@
     <string>uni1E_F_8.glif</string>
     <key>uni1EF9</key>
     <string>uni1E_F_9.glif</string>
+    <key>uni2019</key>
+    <string>uni2019.glif</string>
+    <key>uni201C</key>
+    <string>uni201C_.glif</string>
     <key>uni2023</key>
     <string>uni2023.glif</string>
+    <key>uni2044</key>
+    <string>uni2044.glif</string>
     <key>uni2074</key>
     <string>uni2074.glif</string>
+    <key>uni20AC</key>
+    <string>uni20A_C_.glif</string>
     <key>uni2113</key>
     <string>uni2113.glif</string>
     <key>uni2215</key>
