@@ -162,10 +162,6 @@
     <integer>50</integer>
     <key>postscriptWeightName</key>
     <string>Regular</string>
-    <key>styleMapFamilyName</key>
-    <string>Nerko One Regular</string>
-    <key>styleMapStyleName</key>
-    <string>regular</string>
     <key>styleName</key>
     <string>Regular</string>
     <key>unitsPerEm</key>
