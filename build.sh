@@ -1,4 +1,8 @@
 #!/bin/sh
+
+mkdir fonts/ttf
+rm fonts/ttf/*.ttf
+
 set -e
 
 echo "Generating Static fonts"
