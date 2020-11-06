@@ -16,6 +16,10 @@ Design Process: Originally drawn on an Android phone with Autodesk’s mobile sk
 ChangeLog
 ---------
 
+2020 November 5 (Yanone)
+- Updated specs for release in Google Fonts
+- Mildly improved spacing, added basic uppercase kernning
+
 2014 January 23 (Nermin Kahrimanovic)
 - Released OFL version 1.1 on Github at https://github.com/nermink99/Nerko <NerkoOne-Regular>
 - Updated the family name metadata
